@@ -14,12 +14,12 @@ What things you need to install the software and how to install them:
 pip install transformers
 pip install torch
 ```
-Installing
+### Installing
 
 A step by step series of examples that tell you how to get a development environment running:
 
-Clone the repository
+### Clone the repository
 
 
-    git clone https://github.com/MubarizKhan/transformers-demo.git:
-    cd transformers-demo:
+    git clone https://github.com/MubarizKhan/transformers-demo.git
+    cd transformers-demo
